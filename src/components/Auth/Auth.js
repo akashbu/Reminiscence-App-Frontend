@@ -59,6 +59,7 @@ const Auth = () => {
       console.log('Google Sign In was unsuccessful. Try again later');
     } 
     
+//https://console.cloud.google.com/apis/credentials?project=memoriesapp-316812
 
     return (
     <Container component="main" maxWidth="xs">
